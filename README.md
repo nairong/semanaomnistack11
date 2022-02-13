@@ -4,6 +4,9 @@ Neste evento promovido pela RocketSeat, desenvolvemos a aplicação BeTheHero, u
 Neste projeto foram utilizadas as seguintes tecnologias:
 
 Node.js
+
 React
+
 React Native
+
 Expo
